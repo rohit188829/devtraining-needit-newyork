@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="student table" max_length="40" name="x_58872_needit_student_table" type="collection"/>
+</database>
